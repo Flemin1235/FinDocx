@@ -1,0 +1,12 @@
+Implement the Week 1 FinDocX React frontend using the existing Vite + React + TypeScript setup.
+
+Requirements:
+1. Create a clean, modern financial-document AI dashboard.
+2. Include a header, document upload placeholder, chat interface, answer area, and backend connection status.
+3. Use reusable React components and simple TypeScript types.
+4. Keep the design responsive and beginner-friendly.
+5. Do not implement actual uploads, authentication, database access, or LLM integration yet.
+6. Explain the purpose of each component and the React concepts used.
+7. Run the frontend production build and fix any errors.
+
+Inspect the existing files before modifying them. Do not overwrite working configuration unnecessarily.

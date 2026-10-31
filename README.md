@@ -1,0 +1,1 @@
+- [FinDocX Frontend Initial Setup](memory/fin-docsx-frontend-initial-setup.md) — Foundation completed
